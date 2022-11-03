@@ -19,7 +19,7 @@
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 #
 #
-DIST ?= fc32
+DIST ?= fc37
 DIST_VER = $(subst fc,,$(DIST))
 
 INSTALLER_DIR ?= $(PWD)
